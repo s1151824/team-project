@@ -1,14 +1,10 @@
 # Here is the first title
-**MycrazyWorld網頁應用程式**
+**comfyUI生成圖片**
 ## Level 2 title heading
-- 名字：許瑋秢
-- 學號：1151824
-- 組別：數位媒體設計組
-- 興趣：畫動漫人物
-- 遊戲：第五人格
-- 喜歡的小說：盜墓筆記
-
+- 使用的關鍵詞是男性和襯衫
+-心得：第一次用這個感覺好酷，雖然生成出來的圖片一言難盡但主要男性的五官是看得出來的，這個放在以前是真的非常厲害的技術了
 
 # 圖片
-![alt text](image-2.png)!
-[![alt text](image-1.png)]https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.tiktok.com%2F%40xiaoguan0108%2Fvideo%2F7684729883754335502&ved=0CBcQjRxqGAoTCLiZhKDss5cDFQAAAAAdAAAAABDVAQ&opi=89978449
+![alt text](image-4.png)!
+![alt text](image-6.png)!
+![alt text](<截圖 2026-10-18 下午4.15.00拷貝.png>)！
